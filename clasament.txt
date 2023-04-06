@@ -1,0 +1,6 @@
+Barbara 40
+Adrian 27
+Cristian 20
+Zoe 16
+Aurel 10
+Bogdan 0

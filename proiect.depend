@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617024549 source:c:\users\gruia\desktop\proiect sp\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1619352862 source:c:\users\gruia\desktop\facultate\proiect sp\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
